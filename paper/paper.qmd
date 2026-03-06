@@ -3,10 +3,10 @@ title: "What Drives Emergency Medical Services (EMS) Demand?"
 subtitle: "Community-based paramedic service strategies that focus on medical emergencies, emergency transfers, and vehicle accidents may help to effectively manage EMS demand"
 author: 
   - Julia Lee
-thanks: "Code and data are available at: https://github.com/JuliaJLee/Toronto_Paramedic_Services.git"
-date: today
+thanks: "Code and data are available at: https://github.com/jjlee-lee/Toronto_Paramedic_Services"
+date: 2024-09-29
 date-format: long
-abstract: "By examining Paramedic Services Incident Data (2017-2022) provided by Toronto Paramedic Services, the following anaylsis aims to identify the key drivers of Emergency Medical Services (EMS) demand to help inform demand-management strategies. Through data visualization, this analysis finds that medical emergencies, incidents requiring emergency transfers, and vehicle accidents are overall drivers of EMS demand. This suggests that centering strategies around these drivers may enhance the overall efficiency of paramedic services. Additionally, this analysis emphasizes that thoughtful consideration for the unique needs of those who require EMS is important to build practical EMS-demand-management strategies."
+abstract: "By examining Paramedic Services Incident Data (2017-2022) provided by Toronto Paramedic Services, the following analysis aims to identify the key drivers of Emergency Medical Services (EMS) demand to help inform demand-management strategies. Through data visualization, this analysis finds that medical emergencies, incidents requiring emergency transfers, and vehicle accidents are overall drivers of EMS demand. This suggests that centering strategies around these drivers may enhance the overall efficiency of paramedic services. Additionally, this analysis emphasizes that thoughtful consideration for the unique needs of those who require EMS is important to build practical EMS-demand-management strategies."
 format: pdf
 number-sections: true
 bibliography: references.bib
